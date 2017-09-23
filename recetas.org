@@ -2,7 +2,8 @@
 
 * Lentil tabbouleh
 :PROPERTIES:
-:Cantidad: 
+:Cantidad: 4 personas
+:Tiempo: 1 hora
 :Vegan: yes
 :Fuente: https://www.jamieoliver.com/recipes/vegetables-recipes/lentil-tabbouleh/
 :END:
@@ -56,6 +57,7 @@
 * Naan bread
 :PROPERTIES:
 :Cantidad: 6 personas
+:Tiempo: 1.5 horas
 :Vegan: no
 :Fuente: http://www.taste.com.au/recipes/naan-bread/7d5c1635-6597-48a6-8fe1-4dff038c9cff
 :END:
@@ -85,6 +87,7 @@
 * Cheescake
 :PROPERTIES:
 :Cantidad: 8 personas
+:Tiempo: 1.5 horas
 :Vegan: no
 :Fuente: 
 :END:
