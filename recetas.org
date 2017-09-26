@@ -44,6 +44,7 @@
 
 
 ** Method
+
 1. Sieve the flour/s and salt on to a clean work surface and make a
    well in the middle.
 
@@ -188,7 +189,7 @@ Filling
 
 ** Method
 
-1. Measure out the rice. 
+*** Measure out the rice. 
 
 Depending on how hungry you are, if there are appetizers,
 deserts, whatever, 600 grams (1.32 pounds) should be adequate for
@@ -199,7 +200,7 @@ half-filled pot of rice which seems to give the best result,
 moisture and texture wise. A rice cooker is the most dependable
 way of making rice.
 
-2. Rinse and soak the rice. 
+*** Rinse and soak the rice. 
 
 One way to do this is by finding a really big pot that you can fill
 with lots of cold water. Rinse the rice by pouring lots of cold water
@@ -216,7 +217,7 @@ water over the rice one last time and leave it to soak for about half
 an hour. Some sources recommend letting the rice sit, drained, for
 thirty minutes to an hour.
 
-3. To boil
+*** To boil
 
 You'll need 100 milliliters of cold water for every 100 grams of
 rice - that is, the weight of the rice before you let it soak, which
@@ -231,7 +232,7 @@ rice has finished cooking, of course). There is also the possibility
 of making sushi rice in the oven, as described in the section
 below. Otherwise...
 
-4.  Watch over the pot until it starts to boil. 
+***  Watch over the pot until it starts to boil. 
 
 You'd really prefer a pot with a glass lid here, so that you can see
 the bubbles, because removing the lid would let out the steam and
@@ -256,8 +257,7 @@ additional fifteen minutes. Remember: Never take off the lid or you
 will ruin the rice. After these last fifteen minutes, the rice is
 cooked. But, it's definitely not done.
 
-5. Optional: Let the rice cool down 
-
+*** Optional: Let the rice cool down 
 if you don't want it to get too sticky while you season it. The
 trouble about cooling it down is that we don't want the rice to dry
 out by leaving it on the kitchen table reacting with the air, and we
@@ -269,7 +269,7 @@ there in our sushi), and place the other towel on top of the rice, so
 the air doesn't dry it up. This way, you should be able to cool the
 rice in about an hour.
 
-6. Make the su. 
+*** Make the su. 
 
 For those interested, the word sushi is actually a compound of the
 word su - which means vinegar - and the word shi - which means "skill
@@ -287,7 +287,7 @@ dissolved. Now, adjust the mixture by tasting it - too vinegary? Add
 sugar. Not enough taste? Add salt. Not quite there? Add vinegar. Then
 cool to room temperature.
 
-7.  Mix the su and rice. 
+***  Mix the su and rice. 
 
 Traditionally, this is done with a hangiri, which is a round,
 flat-bottom wooden tub or barrel, and a wooden paddle. Alternatively,
